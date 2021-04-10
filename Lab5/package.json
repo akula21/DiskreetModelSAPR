@@ -1,0 +1,10 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "dependencies": {
+    "graph-isomorphisms": "latest",
+    "tape": "^4.13.0",
+    "datascript": "latest",
+    "ramda": "latest"
+  }
+}
